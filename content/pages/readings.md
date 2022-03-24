@@ -138,7 +138,7 @@ Phonetics II: acoustics of consonants
 
 \[CIP\], chapter 6
 
-Lisker, Leigh, and Arthur S. Abramson. "A Cross-language Study of Voicing in Initial Stops: Acoustical Measurements." _Word_ 20, no. 3 (1964): 384-422. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB](http://www.haskins.yale.edu/Reprints/HL0053.pdf))
+Lisker, Leigh, and Arthur S. Abramson. "A Cross-language Study of Voicing in Initial Stops: Acoustical Measurements." _Word_ 20, no. 3 (1964): 384-422. ([PDF - 1.8MB](http://www.haskins.yale.edu/Reprints/HL0053.pdf))
 
 
 {{< tdclose >}}

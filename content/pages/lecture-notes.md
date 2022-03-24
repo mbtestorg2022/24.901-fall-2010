@@ -112,7 +112,7 @@ Phonetics I: acoustics of vowels, using Praat
 Phonetics II: acoustics of consonants
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit24_901f10_lec09))
+([PDF]({{< baseurl >}}/resources/mit24_901f10_lec09))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -292,7 +292,7 @@ Prosodic morphology: reduplication and truncation
 Loanword phonology
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit24_901f10_lec24))
+([PDF]({{< baseurl >}}/resources/mit24_901f10_lec24))
 {{< tdclose >}}
 
 {{< trclose >}}
