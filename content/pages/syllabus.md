@@ -12,7 +12,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-[_24.900 Introduction to Linguistics_](/courses/24-900-introduction-to-linguistics-fall-2012/), or permission of instructor.
+[_24.900 Introduction to Linguistics_](/courses/24-900-introduction-to-linguistics-fall-2012), or permission of instructor.
 
 Course goals
 ------------
